@@ -1,6 +1,6 @@
 <?php
 $local_path=array(
-    'D:\XAMPP\htdocs\yii-frontend-backend'
+    'D:\XAMPP\htdocs\yii-front-back'
 );
 $dev_path=array(
 );
